@@ -1,0 +1,6 @@
+/Users/Rebecka/Projects/Inlamningsuppgift/Inlamningsuppgift/obj/Debug/Inlamningsuppgift.csproj.AssemblyReference.cache
+/Users/Rebecka/Projects/Inlamningsuppgift/Inlamningsuppgift/obj/Debug/Inlamningsuppgift.csproj.CoreCompileInputs.cache
+/Users/Rebecka/Projects/Inlamningsuppgift/Inlamningsuppgift/bin/Debug/Inlamningsuppgift.exe
+/Users/Rebecka/Projects/Inlamningsuppgift/Inlamningsuppgift/bin/Debug/Inlamningsuppgift.pdb
+/Users/Rebecka/Projects/Inlamningsuppgift/Inlamningsuppgift/obj/Debug/Inlamningsuppgift.exe
+/Users/Rebecka/Projects/Inlamningsuppgift/Inlamningsuppgift/obj/Debug/Inlamningsuppgift.pdb
